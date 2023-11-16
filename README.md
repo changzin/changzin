@@ -1,7 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=egg&color=blue&height=150&section=header&text=header&fontSize=30" />
-<img src="https://capsule-render.vercel.app/api?type=egg&color=BDBDC8&height=150&section=footer&text=footer&fontSize=30" />
-
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=_hexcode&height=150&section=header&text=header&fontSize=30" />
 
 <!--
 **changzin/changzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
