@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=150&section=header&text=텍스트&fontSize=30" />
-
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=blue&height=150&section=header&text=텍스트&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 <!--
 **changzin/changzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
