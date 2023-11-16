@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=white&height=150&section=header&text="hi there"&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=white&height=150&section=header&text="hi there"&fontSize=30&fontColor=black/>
 
 <!--
 **changzin/changzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
